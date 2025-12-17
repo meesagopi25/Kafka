@@ -361,7 +361,7 @@ Confirm:
 
 ---
 
-## 17. Interview-Ready Summary
+## 17. Key Summary
 
 > “In KRaft mode on OpenShift, Kafka metadata resides in controller disks, so backup and restore must prioritize controller PVC snapshots before broker data, while preserving the immutable clusterId.”
 
